@@ -1,0 +1,7 @@
+{
+  "Easy Print 🍃": {
+    "prefix": "println✨",
+    "body": ["Write-Output ${1}"],
+    "description": "Print a sentence."
+  }
+}

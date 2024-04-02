@@ -1,0 +1,7 @@
+{
+  "Easy Print 🍃": {
+    "prefix": "println✨",
+    "body": ["System.out.println(${1});"],
+    "description": "Print a sentence."
+  }
+}

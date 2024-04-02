@@ -1,0 +1,7 @@
+{
+  "Easy Print 🍃": {
+    "prefix": "println✨",
+    "body": ["fmt.Println(${1})"],
+    "description": "Print a sentence."
+  }
+}

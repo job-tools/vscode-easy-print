@@ -1,0 +1,7 @@
+{
+  "Easy Print 🍃": {
+    "prefix": "println✨",
+    "body": ["print_r(${1});"],
+    "description": "Print a sentence."
+  }
+}
